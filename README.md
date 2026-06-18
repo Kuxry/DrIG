@@ -290,8 +290,6 @@ bash run_eval_flickr.sh
 
 Some shell scripts contain machine-specific absolute paths. Before running experiments, update paths such as dataset roots, checkpoint roots, output directories, and CUDA device settings according to your local environment.
 
-Figure assets used in this README should be exported from the paper source and placed under `assets/`. See [assets/README.md](assets/README.md) for the expected filenames.
-
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
